@@ -1,2 +1,3 @@
-# FrameworkTutorial-SPM
-Swift Package manager framework
+# FrameworkExample
+
+A description of this package.
